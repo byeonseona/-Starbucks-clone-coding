@@ -109,7 +109,7 @@ header .inner nav ul.main-menu > li .item__contents .contents__menu{background: 
 
 .notice .notice-line .inner{display: flex;height: 65px;}
 .notice .notice-line > .inner > .inner__left{width: 60%;height: 100%;background: #333;display: flex;align-items: center;}
-.notice .notice-line > .inner > .inner__left h2{color: #fff;font-size: 17px;width: 80px;font-weight: 700;}
+.notice .notice-line > .inner > .inner__left h2{color: #fff;font-size: 17px;width: 80px;}
 .notice .notice-line > .inner > .inner__left .more{display: block;width: 62px;height: 62px;display: flex;align-items: center;margin-right: 20px;}
 .notice .notice-line > .inner > .inner__left .more span{font-size: 35px;color: #fff;}
 
@@ -122,7 +122,7 @@ header .inner nav ul.main-menu > li .item__contents .contents__menu{background: 
 .notice .notice-line > .inner > .inner__left .swiper a{color: #fff;}
 
 .notice .notice-line > .inner > .inner__right{width: 40%;height: 100%;background: #f6f5ef;display: flex;justify-content: center;align-items: center;}
-.notice .notice-line > .inner > .inner__right h2{margin-right: 10px;}
+.notice .notice-line > .inner > .inner__right h2{font-size: 17px;margin-left: 40%;padding-right: 19%;}
 .notice .notice-line > .inner > .inner__right span{font-size: 35px;cursor: pointer;}
 
 /* 섬머온 */
